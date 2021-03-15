@@ -1,0 +1,2 @@
+(this.webpackJsonpmichellzipitria=this.webpackJsonpmichellzipitria||[]).push([[0],{4:function(e,i,c){"use strict";c.r(i);var t=c(1),s=c.n(t),n=c(3),r=c.n(n),l=(c(9),c(0));r.a.render(Object(l.jsx)(s.a.StrictMode,{children:Object(l.jsxs)("div",{class:"wrapper",children:[Object(l.jsx)("div",{class:"item1",children:"BIENVENIDO A REACT"}),Object(l.jsx)("div",{class:"item2",children:"EL SITIO EST\xc1 EN CONSTRUCCI\xd3N"})]})}),document.getElementById("root"))},9:function(e,i,c){}},[[4,1,2]]]);
+//# sourceMappingURL=main.fefcdaa4.chunk.js.map
