@@ -10,7 +10,7 @@
     "react-dom": "^17.0.1",
     "react-scripts": "^4.0.3"
   },
-  "homepage": "mzipi.github.io/react-web/build",
+  "homepage": "mzipi.github.io/create-react-app/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
